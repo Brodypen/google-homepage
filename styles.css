@@ -5,6 +5,15 @@ button {
   font-family: Roboto, arial, sans-serif;
   color: #222;
 }
+button {
+  background-color: #f8f9fa;
+  margin: 11px 4px;
+  padding: 0 16px;
+  height: 36px;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+}
 .navbar {
   width: auto;
   display: flex;
